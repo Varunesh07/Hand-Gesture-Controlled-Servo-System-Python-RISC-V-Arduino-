@@ -110,14 +110,6 @@ Camera → Python (MediaPipe) → Serial (UART) → Microcontroller → Servo Mo
 
 ---
 
-## 🚀 Future Enhancements
-- Add gesture-based macros (e.g., specific signs trigger predefined actions).  
-- Improve noise filtering with Kalman or moving average filters.  
-- Add GUI to visualize angle data and servo positions in real time.  
-- Integrate wireless serial transmission (Bluetooth or Wi-Fi).
-
----
-
 ## 👨‍💻 Contributors
 <table>
   <tr>
